@@ -1,6 +1,10 @@
 [user]
 	name = lvzhaoyang
-	email = lvzhaoyang21@gmail.com
+	email = lvzhaoyang@bytedance.com
+[url "ssh://lvzhaoyang@git.byted.org/"]
+    insteadOf = https://git.byted.org/
+[url "git@code.byted.org:"]
+    insteadOf = https://code.byted.org/
 
 [alias]
   st = status
